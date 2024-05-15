@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(177, 169, 169);
+}
+#heading{
+    font-size: xx-large;
+    margin-left: 500px;
+}
+#alpha{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-top: 200px;
+}
+.box{
+margin: 20px;
+font-size: xx-large;
+padding: 25px;
+text-align: center;
+align-items: center;     
+}
+:hover.box{
+    background-color: rgb(139, 133, 133);
+    color: white;
+    animation-duration: 2s;
+}
